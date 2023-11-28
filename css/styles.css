@@ -487,9 +487,87 @@ img[alt="cb1"]{
 
 .con{
     font-size: 20px;
-    font-weight: 549;
+    font-weight: 540;
     /* line-height: 30px; */
     display: block;
     padding-right: 110px;
    
+}
+
+.ab1{
+    margin: auto;
+    margin-top: 0px;
+}
+
+.ab{
+    height:60px;
+    width: 150px;
+}
+
+table{
+    margin: auto;
+    padding: 20px 150px 40px 100px;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 23px;
+    padding: 20px 100px 35px 2px;
+}
+.sp{
+    padding: 20px 80px 5px 2px;
+}
+.lm{
+    color: #15afde;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.lm:hover{
+    color:#01366f ;
+}
+
+.fo span{
+    width: 230px;
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+}
+
+.ic{
+     cursor: pointer
+}
+
+.fo1 img{
+    position: relative;
+    top: -80px;
+    left: 250px;
+}
+.fo{
+    padding: 50px 60px 120px 100px;
+}
+.ic img{
+    margin: -100px 24px 20px 10px;
+    padding-left: 20px;
+
+}
+.ic{
+   margin-left: 100vh;
+   margin-top: -30px;
+}
+
+.lin{
+    width: 100%;
+    border-top: 1px solid rgb(135, 135, 135);
+    margin-top: -10px;
+    margin-bottom: 60px;
+}
+.lin1{
+    
+    width: 163vh;
+    border-top: 1px solid rgb(135, 135, 135);
+    margin-left:20vh;
+    margin-bottom: 20px;
+    
+
 }
